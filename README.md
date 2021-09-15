@@ -1,6 +1,6 @@
 # Hey there! I’m Jinan
 
- ![Parrot-Pet: Titin](titin.jpg)
+ ![Parrot-Pet: Titin](titin.jpg: height: 100px)
 
  I'm experienced in **Python**
 
