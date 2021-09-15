@@ -1,6 +1,6 @@
 # Hey there! I’m Jinan
 
-<img src="titin.jpg" alt="Parrot-Pet: TItin" width="200" height="200">
+<img src="titin.jpg" alt="Parrot-Pet: TItin" height="300">
 
  I'm experienced in **Python**
 
