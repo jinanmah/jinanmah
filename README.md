@@ -1,6 +1,6 @@
 # Hey there! I’m Jinan
 
-<img src="titin.jpg" alt="Parrot-Pet: TItin" height="300" style="border-radius: 25px">
+<img src="titin.jpg" alt="Parrot-Pet: TItin" height="300" style="border-radius: 50%">
 
  I'm experienced in **Python**
 
