@@ -2,11 +2,7 @@
 
 <img src="titin.jpg" alt="Parrot-Pet: TItin" height="300">
 
-<style>
- img {
-  border-radius: 40%;
- }
-</style>
+<style></style>
 
  I'm experienced in **Python**
 
