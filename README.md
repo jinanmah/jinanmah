@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jinanmah
-- 👀 I’m interested in Programming and Web Development
-- 🌱 I’m currently learning Angular and TypeScript
-- 📫 How to reach me : my email - jinanmah@gmail.com
+- Hey there! I’m Jinan
+- I’m interested in Programming and Full-Stack Web Development
+- I’m currently learning Angular and TypeScript
+- COntact me via email - jinanmah@gmail.com
 
 <!---
 jinanmah/jinanmah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
