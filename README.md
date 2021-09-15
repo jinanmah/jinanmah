@@ -1,6 +1,6 @@
 # Hey there! I’m Jinan
 
- ![Parrot-Pet: Titin](url)
+ ![Parrot-Pet: Titin](titin.jpg)
 
  I'm experienced in **Python**
 
