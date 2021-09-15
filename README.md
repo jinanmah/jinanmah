@@ -2,9 +2,9 @@
 
 <img src="titin.jpg" alt="Parrot-Pet: TItin" height="300">
 
- I'm experienced in **Python**
-
  I’m interested in **Programming** and **Full-Stack Web Development**
+ 
+ I have knowledge on the python programming language.
  
  I’m currently learning ***Angular*** and ***TypeScript***
  
